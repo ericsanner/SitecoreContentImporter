@@ -1,0 +1,89 @@
+[I] Updating sitecore_master_index for {FF36ABF4-A94E-4AB1-A3AC-F698F35AB5A4} - /sitecore/content/YourTenant/Home/Jobs
+[I] Resetting import field
+[I] Found 2 items to reset
+[I] Updating Item {345D9FB3-9C8D-45AB-92FD-23111935AC9A} - inventory-specialist
+[U] Field Name 'ImportedOnLastRun' Current Value: '1' New Value: ''
+[I] Change Detected: True Item modified True
+[I] Updating Item {6FE4B441-0827-48C9-BD0A-1DAFE66FF2EF} - material-handler
+[U] Field Name 'ImportedOnLastRun' Current Value: '1' New Value: ''
+[I] Change Detected: True Item modified True
+[I] Iterating Source Data
+[E] Error importing job opazqfwZ - Not a valid job
+[I] Importing job omB3fw1
+[I] Found existing item {CB924EBD-8133-4704-9435-B530B1DD30AE} - electrical-assembler
+[I] Processing Locations
+[I] Found existing item {12F99BD8-EA39-4557-9D92-3DB574B654D3} - united-states
+[I] Updating Item {12F99BD8-EA39-4557-9D92-3DB574B654D3} - united-states
+[-] Field Name '__Display name' Current Value: 'United States' New Value: 'United States'
+[-] Field Name 'CountryName' Current Value: 'United States' New Value: 'United States'
+[I] Change Detected: False Item modified False
+[I] Found existing item {938FC2B2-5192-4373-B3F3-39240B92531D} - georgia
+[I] Updating Item {938FC2B2-5192-4373-B3F3-39240B92531D} - georgia
+[-] Field Name '__Display name' Current Value: 'Georgia' New Value: 'Georgia'
+[-] Field Name 'StateName' Current Value: 'Georgia' New Value: 'Georgia'
+[I] Change Detected: False Item modified False
+[I] Found existing item {6A9BAB9B-CA1D-4F07-BD0B-6027C81DB38E} - georgia
+[I] Updating Item {6A9BAB9B-CA1D-4F07-BD0B-6027C81DB38E} - georgia
+[-] Field Name 'StreetAddress2' Current Value: '' New Value: ''
+[-] Field Name 'CountryName' Current Value: '{12F99BD8-EA39-4557-9D92-3DB574B654D3}' New Value: '{12F99BD8-EA39-4557-9D92-3DB574B654D3}'
+[-] Field Name 'City' Current Value: 'Atlanta' New Value: 'Atlanta'
+[-] Field Name 'StreetAddress1' Current Value: '123 Some St' New Value: '123 Some St'
+[-] Field Name 'ZipCode' Current Value: '12345' New Value: '12345'
+[-] Field Name 'StateName' Current Value: '{938FC2B2-5192-4373-B3F3-39240B92531D}' New Value: '{938FC2B2-5192-4373-B3F3-39240B92531D}'
+[-] Field Name '__Display name' Current Value: 'Georgia' New Value: 'Georgia'
+[I] Change Detected: False Item modified False
+[I] Importing job of91v4wc
+[A] Created new item {D96555F9-ACC2-491E-A2F8-CD5CDEB21770} - research-engineer
+[I] Processing Locations
+[I] Found existing item {12F99BD8-EA39-4557-9D92-3DB574B654D3} - united-states
+[I] Updating Item {12F99BD8-EA39-4557-9D92-3DB574B654D3} - united-states
+[-] Field Name '__Display name' Current Value: 'United States' New Value: 'United States'
+[-] Field Name 'CountryName' Current Value: 'United States' New Value: 'United States'
+[I] Change Detected: False Item modified False
+[I] Found existing item {A473C362-FAB4-4493-8802-5D9B4548924E} - Missouri
+[I] Updating Item {A473C362-FAB4-4493-8802-5D9B4548924E} - Missouri
+[U] Field Name '__Display name' Current Value: '' New Value: 'Missouri'
+[-] Field Name 'StateName' Current Value: 'Missouri' New Value: 'Missouri'
+[I] Change Detected: True Item modified True
+[I] Found existing item {58091659-DD7B-4B9F-B6F9-F9078AB70EF1} - missouri
+[I] Updating Item {58091659-DD7B-4B9F-B6F9-F9078AB70EF1} - missouri
+[-] Field Name 'StreetAddress2' Current Value: '' New Value: ''
+[-] Field Name 'CountryName' Current Value: '{12F99BD8-EA39-4557-9D92-3DB574B654D3}' New Value: '{12F99BD8-EA39-4557-9D92-3DB574B654D3}'
+[-] Field Name 'City' Current Value: 'St. Louis' New Value: 'St. Louis'
+[-] Field Name 'StreetAddress1' Current Value: '123 Any St' New Value: '123 Any st'
+[-] Field Name 'ZipCode' Current Value: '12345' New Value: '12345'
+[-] Field Name 'StateName' Current Value: '{A473C362-FAB4-4493-8802-5D9B4548924E}' New Value: '{A473C362-FAB4-4493-8802-5D9B4548924E}'
+[U] Field Name '__Display name' Current Value: '' New Value: 'St. Louis'
+[I] Change Detected: True Item modified True
+[I] Updating Item {D96555F9-ACC2-491E-A2F8-CD5CDEB21770} - research-engineer
+[U] Field Name 'Description' Current Value: '' New Value: '<p>The Research Engineer...'
+[U] Field Name 'JobListingTitle' Current Value: '' New Value: 'Research Engineer...'
+[-] Field Name 'MetaDescription' Current Value: '' New Value: ''
+[U] Field Name 'OpenGraphTitle' Current Value: '' New Value: 'Research Engineer...'
+[U] Field Name '__Display name' Current Value: '' New Value: 'Research Engineer...'
+[U] Field Name 'Addresses' Current Value: '' New Value: '{58091659-DD7B-4B9F-B6F9-F9078AB70EF1}'
+[U] Field Name 'Title' Current Value: 'research-engineer...' New Value: 'Research Engineer...'
+[U] Field Name 'ImportedOnLastRun' Current Value: '' New Value: '1'
+[U] Field Name 'NavigationTitle' Current Value: 'research-engineer...' New Value: 'Research Engineer...'
+[U] Field Name 'Careers Category' Current Value: '' New Value: '{244ABB07-2A53-40D0-84C8-497D0FB3DC6D}'
+[U] Field Name 'Content' Current Value: '' New Value: '<p>The Research Engineer...'
+[U] Field Name 'Job Family' Current Value: '' New Value: '{724BA24C-F08F-4356-B57C-29E63B6C5D01}'
+[-] Field Name 'OpenGraphDescription' Current Value: '' New Value: ''
+[U] Field Name 'RequisitionNumber' Current Value: '' New Value: 'REQ-57846A'
+[U] Field Name 'JobID' Current Value: '' New Value: 'of91v4wc'
+[I] Change Detected: True Item modified True
+[I] Updating sitecore_master_index for {FF36ABF4-A94E-4AB1-A3AC-F698F35AB5A4} - /sitecore/content/YourTenant/Home/Jobs
+[I] Removing items not imported
+[I] Found 0 items to remove
+[I] Updating sitecore_master_index for {FF36ABF4-A94E-4AB1-A3AC-F698F35AB5A4} - /sitecore/content/YourTenant/Home/Jobs
+[I] Updating sitecore_master_index for {EB972B0E-86E3-4FDC-8BE6-30DA7725345B} - /sitecore/content/YourTenant/Shared/Data/Country
+[I] Updating sitecore_master_index for {5BD53A36-D492-4A5B-A73D-341353FB1627} - /sitecore/content/YourTenant/Shared/Data/States
+[I] Updating sitecore_master_index for {9B2F8D66-66FC-45E0-8E4F-6DA3D4175918} - /sitecore/content/YourTenant/Shared/Data/POIs
+[I] Publishing {FF36ABF4-A94E-4AB1-A3AC-F698F35AB5A4} - /sitecore/content/YourTenant/Home/Jobs and children
+[I] Publishing {EB972B0E-86E3-4FDC-8BE6-30DA7725345B} - /sitecore/content/YourTenant/Shared/Data/Country and children
+[I] Publishing {5BD53A36-D492-4A5B-A73D-341353FB1627} - /sitecore/content/YourTenant/Shared/Data/States and children
+[I] Publishing {9B2F8D66-66FC-45E0-8E4F-6DA3D4175918} - /sitecore/content/YourTenant/Shared/Data/POIs and children
+[I] Updating sitecore_web_index for {FF36ABF4-A94E-4AB1-A3AC-F698F35AB5A4} - /sitecore/content/YourTenant/Home/Jobs
+[I] Updating sitecore_web_index for {EB972B0E-86E3-4FDC-8BE6-30DA7725345B} - /sitecore/content/YourTenant/Shared/Data/Country
+[I] Updating sitecore_web_index for {5BD53A36-D492-4A5B-A73D-341353FB1627} - /sitecore/content/YourTenant/Shared/Data/States
+[I] Updating sitecore_web_index for {9B2F8D66-66FC-45E0-8E4F-6DA3D4175918} - /sitecore/content/YourTenant/Shared/Data/POIs
